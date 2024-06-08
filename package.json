@@ -1,0 +1,27 @@
+{
+  "name": "online-pharma-backend-server",
+  "version": "1.0.0",
+  "description": "Data Feaching purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhakadnitesh/Online-Pharma-Backend-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhakadnitesh/Online-Pharma-Backend-Server/issues"
+  },
+  "homepage": "https://github.com/dhakadnitesh/Online-Pharma-Backend-Server#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "json": "^11.0.0",
+    "json-server": "^0.16.3",
+    "server": "^1.0.39"
+  }
+}
